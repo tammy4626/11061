@@ -1,0 +1,32 @@
+<START>
+header {
+	back, start, menu, btn-active
+}
+row {
+	double {
+		small-title, text, back
+	}
+	double {
+		small-title, menu, text
+	}
+}
+row {
+	quadruple {
+		small-title, text, next
+	}
+	quadruple {
+		small-title, text
+	}
+	quadruple {
+		small-title, small-title, text, play
+	}
+	quadruple {
+		small-title, text, back
+	}
+}
+row {
+	single {
+		small-title, start, text
+	}
+}
+<END>

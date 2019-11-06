@@ -1,0 +1,8 @@
+D:\darknet-master\scripts/train0526/JPEGImages/01.png
+D:\darknet-master\scripts/train0526/JPEGImages/02.png
+D:\darknet-master\scripts/train0526/JPEGImages/03.png
+D:\darknet-master\scripts/train0526/JPEGImages/04.png
+D:\darknet-master\scripts/train0526/JPEGImages/05.png
+D:\darknet-master\scripts/train0526/JPEGImages/06.png
+D:\darknet-master\scripts/train0526/JPEGImages/07.png
+D:\darknet-master\scripts/train0526/JPEGImages/08.png

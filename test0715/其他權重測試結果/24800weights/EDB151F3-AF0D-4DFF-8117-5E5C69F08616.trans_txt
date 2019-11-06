@@ -1,0 +1,29 @@
+<START>
+header {
+	btn-active, btn-active
+}
+row {
+	small-title {
+		
+	}
+	small-title {
+		
+	}
+	text {
+		
+	}
+	text {
+		
+	}
+}
+row {
+}
+row {
+	double {
+		btn-active
+	}
+	double {
+		text, btn-active
+	}
+}
+<END>

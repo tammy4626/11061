@@ -1,0 +1,21 @@
+<START>
+header {
+	btn-active, next, back, menu, menu
+}
+row {
+	small-title {
+		
+	}
+	text {
+		
+	}
+	play {
+		
+	}
+	back {
+		
+	}
+}
+row {
+}
+<END>

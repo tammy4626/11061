@@ -1,0 +1,18 @@
+<START>
+header {
+	single
+}
+row {
+	double {
+		small-title, text
+	}
+	double {
+		small-title, text, cancel, next
+	}
+}
+row {
+	single {
+		small-title, text, play
+	}
+}
+<END>

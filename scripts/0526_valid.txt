@@ -1,0 +1,2 @@
+D:\darknet-master\scripts/train0526/JPEGImages/09.png
+D:\darknet-master\scripts/train0526/JPEGImages/10.png

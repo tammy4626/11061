@@ -1,0 +1,13 @@
+<START>
+header {
+	quadruple, quadruple, menu, small-title, small-title, text, start, text
+}
+row {
+	double {
+		small-title, text, btn-active
+	}
+	double {
+		
+	}
+}
+<END>

@@ -1,0 +1,13 @@
+<START>
+header {
+	next, back, next
+}
+row {
+	double {
+		small-title, text, cancel
+	}
+	start {
+		
+	}
+}
+<END>

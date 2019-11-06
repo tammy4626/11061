@@ -1,0 +1,18 @@
+
+#TRAIN own data on Linux
+
+/darknet detector train 0412train/cfg/obj.data 0412train/cfg/yolov3-tiny.cfg 0412train/cfg/weights/darknet53.conv.74
+
+#開始訓練的指令
+darknet.exe detector train train0714/cfg/obj.data train0714/cfg/yolov3-tiny.cfg train0714/cfg/weights/yolov3-tiny_286100.weights
+
+
+#訓練好的權重來測試 
+
+darknet.exe detector test 0420train/cfg/obj.data 0420train/cfg/yolov3-tiny.cfg yolov3-tiny_204000.weights  data/0058.png -save_labels
+
+darknet.exe detect cfg/yolov3-tiny.cfg yolov3-tiny.weights data/dog.jpg -save_labels
+darknet.exe detector map train0714/cfg/obj.data train0714/cfg/yolov3-tiny.cfg train0714/cfg/weights/yolov3-tiny_286100.weights
+
+
+darknet.exe detector test 0420train/cfg/obj.data 0420train/cfg/yolov3-tiny.cfg 0420train/cfg/weights/yolov3-tiny_204000.weights 0420train/JPEGImages/0001.jpg

@@ -1,0 +1,5 @@
+<START>
+header {
+	play, next, back, menu
+}
+<END>

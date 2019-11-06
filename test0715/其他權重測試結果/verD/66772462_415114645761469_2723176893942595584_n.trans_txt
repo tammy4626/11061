@@ -1,0 +1,20 @@
+<START>
+header {
+	play, menu, back
+}
+row {
+	double {
+		small-title, text, cancel, menu
+	}
+	double {
+		small-title, text
+	}
+}
+row {
+	single {
+		play
+	}
+}
+row {
+}
+<END>

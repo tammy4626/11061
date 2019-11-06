@@ -1,0 +1,8 @@
+header {back,start,next,cancel,menu}
+row{quadruple {small-title,play}
+         quadruple {small-title,back}
+         quadruple {small-title,next}
+         quadruple {small-title,start}
+}
+
+row{double{small-title,text,play} double{small-tile,text,start}}

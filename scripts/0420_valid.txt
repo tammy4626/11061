@@ -1,0 +1,14 @@
+D:\darknet-master\scripts/train0420/JPEGImages/0059.jpg
+D:\darknet-master\scripts/train0420/JPEGImages/0060.jpg
+D:\darknet-master\scripts/train0420/JPEGImages/0061.jpg
+D:\darknet-master\scripts/train0420/JPEGImages/0062.jpg
+D:\darknet-master\scripts/train0420/JPEGImages/0063.jpg
+D:\darknet-master\scripts/train0420/JPEGImages/0064.jpg
+D:\darknet-master\scripts/train0420/JPEGImages/0065.jpg
+D:\darknet-master\scripts/train0420/JPEGImages/0066.jpg
+D:\darknet-master\scripts/train0420/JPEGImages/0067.jpg
+D:\darknet-master\scripts/train0420/JPEGImages/0068.jpg
+D:\darknet-master\scripts/train0420/JPEGImages/0069.jpg
+D:\darknet-master\scripts/train0420/JPEGImages/0070.jpg
+D:\darknet-master\scripts/train0420/JPEGImages/0071.jpg
+D:\darknet-master\scripts/train0420/JPEGImages/0072.jpg

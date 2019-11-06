@@ -1,0 +1,13 @@
+<START>
+header {
+	play, menu
+}
+row {
+	double {
+		back, small-title, text
+	}
+	double {
+		small-title, text, cancel, menu
+	}
+}
+<END>

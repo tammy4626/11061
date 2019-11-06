@@ -1,0 +1,3 @@
+header {menu,back,next}
+row{single{small-title,text,start}}
+row{single{small-title,text,play}}

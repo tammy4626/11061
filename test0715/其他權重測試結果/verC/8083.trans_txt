@@ -1,0 +1,30 @@
+<START>
+header {
+	small-title, text, text, back, back
+}
+row {
+	quadruple {
+		
+	}
+	quadruple {
+		small-title
+	}
+	quadruple {
+		
+	}
+}
+row {
+	quadruple {
+		
+	}
+	quadruple {
+		small-title
+	}
+	quadruple {
+		small-title, text
+	}
+	cancel {
+		
+	}
+}
+<END>

@@ -1,0 +1,5 @@
+D:\darknet-master\scripts/train0714/JPEGImages/difficult_8018.jpg
+D:\darknet-master\scripts/train0714/JPEGImages/difficult_8037.jpg
+D:\darknet-master\scripts/train0714/JPEGImages/difficult_8052.jpg
+D:\darknet-master\scripts/train0714/JPEGImages/difficult_8072.jpg
+D:\darknet-master\scripts/train0714/JPEGImages/difficult_8083.jpg

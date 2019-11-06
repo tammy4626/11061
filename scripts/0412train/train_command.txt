@@ -1,0 +1,6 @@
+
+
+/darknet detector train 0412train/cfg/obj.data 0412train/cfg/yolov3-tiny.cfg 0412train/cfg/weights/darknet53.conv.74
+
+
+darknet.exe detector train 0412train/cfg/obj.data 0412train/cfg/yolov3-tiny.cfg 0412train/cfg/weights/darknet53.conv.74

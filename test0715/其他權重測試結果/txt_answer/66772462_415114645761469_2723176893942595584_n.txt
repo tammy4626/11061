@@ -1,0 +1,3 @@
+header{back,menu,play}
+row{double{small-title,text,start} double{small-tilte,text,next}}
+row{single{small-title,play}}

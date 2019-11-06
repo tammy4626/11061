@@ -1,0 +1,16 @@
+<START>
+header {
+	double, menu
+}
+row {
+	double {
+		text, cancel
+	}
+	quadruple {
+		small-title, text
+	}
+	text {
+		
+	}
+}
+<END>

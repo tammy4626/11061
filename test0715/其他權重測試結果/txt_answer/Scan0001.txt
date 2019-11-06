@@ -1,0 +1,16 @@
+header {
+play,next,menu,start
+}
+row{
+single{
+small-title,text,next
+}
+}
+row{
+double{
+small-title,text,play
+} 
+double{
+small-tilte,text,play
+}
+}

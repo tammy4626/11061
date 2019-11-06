@@ -1,0 +1,16 @@
+<START>
+header {
+	play, back, play, back
+}
+row {
+	quadruple {
+		text
+	}
+	quadruple {
+		
+	}
+	quadruple {
+		text
+	}
+}
+<END>

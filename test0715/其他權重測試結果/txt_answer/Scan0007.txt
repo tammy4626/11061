@@ -1,0 +1,13 @@
+header {}
+row{single{menu,text,cancel}}
+row{double{small-title,text,cancel,next} double{small-tile,text,start,next}}
+row{quadruple {small-title}
+         quadruple {small-title}
+         quadruple {small-title}
+         quadruple {small-title}
+}
+row{single{small-title}}
+
+row{single{small-title}}
+
+

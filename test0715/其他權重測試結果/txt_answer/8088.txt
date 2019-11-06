@@ -1,0 +1,7 @@
+header{menu,play,play,next}
+row{quadruple {small-title,text,start}
+row{quadruple {small-title,text,play}
+         quadruple {small-title,text,next}
+         quadruple {small-title,text,back}
+}
+row{double{small-title,text,next} double{small-tilte,text,play}}
